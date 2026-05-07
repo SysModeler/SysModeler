@@ -1,11 +1,14 @@
 # About Me
-- 👋 Hi, I’m Nivedh @SysModeler, A passionate model-based systems engineer looking forward to creating solutions that bridge the gap between requirements, architecture models and implementations.
-- 👀 I’m interested in automation, systems modeling, and creating solutions that bridge the gap between architecture and implementation.
-- 💞️ I’m looking to collaborate on automation, AI integration, change management and traceability.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nivedh-sunny-6a372191/)
-- 😄 Pronouns: He/Him
+
+- 👋 Hi, I’m Nivedh (@SysModeler), a Systems Engineer focused on MBSE, Requirements Engineering, System Architecture, Functional Safety and security.
+
+- 🚆 Experience in system architecture modeling, requirements analysis, and safety & security -oriented engineering within rail and IT environments.
+
+- 🛠️ Interested in complex systems development, system modeling, automation, and security-by-design approaches.
+
+- 📫 LinkedIn: [nivedh-sunny](https://www.linkedin.com/in/nivedh-sunny-6a372191/)
 
 <!---
-SysModeler/SysModeler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+SysModeler/SysModeler is a ✨ special ✨ repository because its `README.md`
+appears on your GitHub profile.
 --->
