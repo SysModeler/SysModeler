@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m Nivedh @SysModeler, a passionate model based systems engineer with a strong focus on systems development.
+- 👋 Hi, I’m Nivedh @SysModeler, A passionate model-based systems engineer looking forward to creating solutions that bridge the gap between requirements, architecture models and implementations.
 - 👀 I’m interested in automation, systems modeling, and creating solutions that bridge the gap between architecture and implementation.
 - 💞️ I’m looking to collaborate on automation, change management and traceability.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nivedh-sunny-6a372191/)
