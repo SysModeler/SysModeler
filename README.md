@@ -6,7 +6,7 @@
 
 - 🛠️ Interested in complex systems development, system modeling, automation, and security-by-design approaches.
 
-- 📫 LinkedIn: [nivedh-sunny](https://www.linkedin.com/in/nivedh-sunny-6a372191/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/nivedh-sunny-6a372191/)
 
 <!---
 SysModeler/SysModeler is a ✨ special ✨ repository because its `README.md`
