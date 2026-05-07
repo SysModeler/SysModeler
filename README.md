@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m Nivedh (@SysModeler), a Systems Engineer focused on MBSE, Requirements Engineering, System Architecture, Functional Safety and security.
+- 👋 Hi, I’m Nivedh (@SysModeler), a Systems Engineer focused on MBSE, Requirements Engineering, System Architecture, Functional Safety and Security.
 
 - 🚆 Experience in system architecture modeling, requirements analysis, and safety & security -oriented engineering within rail and IT environments.
 
